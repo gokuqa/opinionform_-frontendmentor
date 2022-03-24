@@ -29,6 +29,10 @@ form{
     width: 300px;
     color: white;
 }
+#send:hover{
+background-color: white;
+color: #FB7616;
+}
 button:hover{
     background-color: white;
     color: orange;
